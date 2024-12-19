@@ -1,11 +1,11 @@
-# Hi 👋🏼, I am Brian Kipkoech!
+# Hi 👋🏼, I am Purity Kaluku!
 
 Welcome to my GitHub profile 🙏🏼
 
 ---
 ## About Me:
 <p align="left">
-  <img src="https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/master/Images/avatar.jpg" width="200" height="200">
+  <img src="./Images/avatar.jpg" width="200" height="200">
 </p>
 
 ### Machine Learning Engineer | Data Scientist
@@ -14,35 +14,42 @@ Welcome to my GitHub profile 🙏🏼
 
 ---
 ### Profile Summary
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-kipkoech-tanui&label=Profile%20views&color=0e75b6&style=flat" alt="brian-kipkoech-tanui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Purity-Kaluku&label=Profile%20views&color=0e75b6&style=flat" alt="Purity-Kaluku" /> </p>
 
-I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.
-<br><br>
-In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
-<br><br>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/brian-kipkoech-tanui?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 briankipkoechtanui@gmail.com
+Here is your text with italicization applied:
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Purity-Kaluku&label=Profile%20views&color=0e75b6&style=flat" alt="Purity-Kaluku" /> </p>
+
+*I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.*
+<br/>
+
+*In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.*
+<br/>
+
+*I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/Purity-Kaluku?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 puritykalumu@gmail.com.*
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p> -->
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briankipkoech/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/brian-kipkoech-tanui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/purity-kaluku/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Purity-Kaluku)
 
 
 ---
 ## Domains of Interests & Expertise
-:comet: Statistics <br>
-:comet: Data Science <br>
-:comet: Machine Learning <br>
-:comet: Artificial Intelligence <br>
-:comet: Computer Vision <br>
-:comet: Deep Learning <br>
-:comet: AWS Machine Learning Services<br>
-:comet: MLops <br>
-:comet: NLP
+🔥 Statistics <br>  
+🔥 Data Science <br>  
+🔥 Machine Learning <br>  
+🔥 Artificial Intelligence <br>  
+🔥 Computer Vision <br>  
+🔥 Deep Learning <br>  
+🔥 AWS Machine Learning Services <br>  
+🔥 MLops <br>  
+🔥 NLP  
 
----
 ## Skills 
 
 
@@ -57,13 +64,13 @@ I am dedicated to making an impact, with a focus on data science and machine lea
     <img src="./Images/Icons/240px-SCIPY_2.svg.png" height="30">
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
-    <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30">
-    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
+    <!-- <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30"> -->
+    <!-- <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30"> -->
     <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
     <img src="./Images/Icons/seaborn_logo.svg" height="30">
     <img src="./Images/Icons/Tensorflow_logo.png" height="30">
     <img src="./Images/Icons/keras-logo-2018-large-1200.png" height="30">
-    <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30">
+    <!-- <img src="./Images/Icons/AWS-Certified-Cloud-Practitioner.png" height="30"> -->
     <img src="./Images/Icons/SageMaker-300x150.jpg" height="30">
     <img src="./Images/Icons/320px-Amazon_Web_Services_Logo.svg.png" height="30">
     <img src="./Images/Icons/Git-Logo-2Color.png" height="30">
@@ -86,9 +93,9 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0.24.1-red.svg)](https://scikit-learn.org/stable/)
 [![statsmodels](https://img.shields.io/badge/statsmodels-0.13.0-yellow.svg)](https://www.statsmodels.org/stable/index.html)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7.0-orange.svg)](https://scipy.org/)
-[![Java](https://img.shields.io/badge/Java-21-green.svg)](https://www.oracle.com/java/technologies/downloads/)
-[![SpringBoot](https://img.shields.io/badge/Springboot-3.2.2-blue.svg)](https://spring.io/projects/spring-boot)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-black.svg)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/)
+<!-- [![Java](https://img.shields.io/badge/Java-21-green.svg)](https://www.oracle.com/java/technologies/downloads/) -->
+<!-- [![SpringBoot](https://img.shields.io/badge/Springboot-3.2.2-blue.svg)](https://spring.io/projects/spring-boot) -->
+<!-- [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-black.svg)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/) -->
 ---
 ### 💾 Database Management
 
@@ -115,14 +122,14 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Keras](https://img.shields.io/badge/Keras-2.5.0-blue.svg)](https://keras.io/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-red.svg)](https://pytorch.org/)
 ---
-<!-- ### 🗣️ NLP
+### 🗣️ NLP
 
 [![NLTK](https://img.shields.io/badge/NLTK-3.6.0-yellow.svg)](https://www.nltk.org/)
 [![NLU](https://img.shields.io/badge/NLU-NLP-yellowgreen.svg)](https://github.com/nlu-tools/nlu)
 [![Dialogue Management](https://img.shields.io/badge/Dialogue%20Management-NLP-yellowgreen.svg)](https://github.com/dialogue-management)
 [![RASA](https://img.shields.io/badge/RASA-3.11.0-green.svg)](https://rasa.com/)
 [![spaCy](https://img.shields.io/badge/spaCy-3.1.0-red.svg)](https://spacy.io/)
-[![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html) -->
+[![RegEx](https://img.shields.io/badge/RegEx-0.3.0-red.svg)](https://docs.python.org/3/library/re.html)
 ---
 ### 🤖 AI/ML Applications
 
@@ -173,7 +180,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 
 [![Git](https://img.shields.io/badge/Git-v2.31.0-blue.svg)](https://git-scm.com/)
 [![Django](https://img.shields.io/badge/Django_Web_Framework-green.svg)](https://www.djangoproject.com/)
-[![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/)
+<!-- [![React](https://img.shields.io/badge/React-Web_Framework-lightgrey.svg)](https://reactjs.org/) -->
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Interactive_Computing-orange.svg)](https://jupyter.org/)
 [![Lab](https://img.shields.io/badge/Lab-Jupyter_Lab-lightblue.svg)](https://jupyterlab.readthedocs.io/en/stable/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Collaborative_Computing-yellow.svg)](https://colab.research.google.com/)
@@ -182,8 +189,8 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
-<!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purity-Kaluku&theme=midnight-purple)
+<!-- ![Purity Kaluku's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui) -->
 <br>
 <!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
 <br><br> -->
