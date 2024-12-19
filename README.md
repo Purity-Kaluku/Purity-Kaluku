@@ -16,12 +16,6 @@ Welcome to my GitHub profile 🙏🏼
 ### Profile Summary
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Purity-Kaluku&label=Profile%20views&color=0e75b6&style=flat" alt="Purity-Kaluku" /> </p>
 
-Here is your text with italicization applied:
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Purity-Kaluku&label=Profile%20views&color=0e75b6&style=flat" alt="Purity-Kaluku" /> </p>
-
 *I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.*
 <br/>
 
